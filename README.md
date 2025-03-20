@@ -39,6 +39,8 @@ Mahasiswa: Andreas Timotius Parhorasan Sihombing/5027211019
 - Salah kaprah tentang teori 7±2: bukan batasan jumlah elemen visual tapi kapasitas memori jangka pendek.
 - Manajemen konten digital: penggunaan labeling, warna, tagging, timestamp untuk mengurangi beban kognitif pengguna.
 - Studi kasus: penggunaan teknologi seperti autentikasi multifaktor (MFA) memanfaatkan prinsip memori ini.
+- ![image](https://github.com/user-attachments/assets/eb908de2-b92f-4ab8-83e7-c01c783ad7f7)
+
 
 ### 4. Pembelajaran (Learning)
 - Terhubung erat dengan memori.
